@@ -6,4 +6,5 @@ Here is the prompt
 
 ## Response
 
-Here is the response
+Here is the response with some editing and revisions.
+
