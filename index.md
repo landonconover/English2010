@@ -5,7 +5,7 @@
 This is for writing assignments for my English 2010 Class!!
 
 {% for file in site.static_files %}
-  {% if file.path contains '.md' %}
+  {% if file.name contains '.md' %}
     * {{file.name}}
   {% endif %}
 {% endfor %}
