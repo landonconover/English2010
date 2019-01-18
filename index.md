@@ -1,4 +1,6 @@
 ---
+layout: page
+title: Home
 ---
 
 # English2010
