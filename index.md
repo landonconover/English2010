@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 # English2010
