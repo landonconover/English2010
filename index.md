@@ -5,5 +5,5 @@
 This is for writing assignments for my English 2010 Class!!
 
 {% for page in site.pages %}
-    * {{page.name}}
+    ({{page.name}})[{{page.url}}]
 {% endfor %}
