@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 --baseurl: /English2010
+# Dependencies
+markdown:    kramdown
+highlighter: pygments
