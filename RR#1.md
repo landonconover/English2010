@@ -1,3 +1,8 @@
+---
+title: RR #1
+layout: default
+---
+
 # RR #1
 
 ## Prompt
