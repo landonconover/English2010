@@ -1,5 +1,4 @@
 ---
-title: RR #1
 layout: default
 ---
 
