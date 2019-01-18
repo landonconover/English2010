@@ -1,8 +1,13 @@
 # English2010
 This is for writing assignments for my English 2010 Class
 
-<ul>
-{% for page in site.collections.legal.docs %}
-  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+{% for coll in site.collections %}
+{% unless coll.label == "posts" %}
+{% for file in coll.files %}
+<div>
+  Name: {{ file.name }}
+  Path: {{ file.path }}
+</div>
 {% endfor %}
-</ul>
+{% endunless %}
+{% endfor %}
