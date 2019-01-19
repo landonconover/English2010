@@ -3,3 +3,6 @@ theme: jekyll-theme-cayman
 # Dependencies
 markdown:    kramdown
 highlighter: pygments
+collections:
+  papers:
+    output: true
