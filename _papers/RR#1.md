@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Reading Response #1
 ---
 
-# RR #1
+# Reading Response #1
 
 ## Prompt
 
