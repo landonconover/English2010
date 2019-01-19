@@ -6,14 +6,17 @@ layout: default
 This is for writing assignments for my English 2010 Class!!
 
 
+
 {% for page in site.pages %}
     {{page.title}} - {{ site.baseurl }}{{ page.url }}
 {% endfor %}
+
 
 {% for page in site.page %}
     <!-- link to each post in index.html -->
     <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
 {% endfor %}
+
 
 
 [RR#1.md](/English2010/RR%231.html)
