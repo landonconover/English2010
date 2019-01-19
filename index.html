@@ -11,9 +11,9 @@ This is for writing assignments for my English 2010 Class!!!
 {% endfor %}
 
 <ul>
-  {% for page in site.pages %}
+  {% for paper in site.papers %}
     <li>
-      <a href="{{ pafe.url }}">{{ page.title }}</a>
+      <a href="{{ paper.url }}">{{ paper.title }}</a>
     </li>
   {% endfor %}
 </ul>
