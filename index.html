@@ -10,6 +10,12 @@ This is for writing assignments for my English 2010 Class!!!
     [{{ page.title }}]({{ site.baseurl }}{{ page.url }})
 {% endfor %}
 
-
+<ul>
+  {% for page in site.pages %}
+    <li>
+      <a href="{{ pafe.url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 
