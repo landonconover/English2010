@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 --baseurl: /English2010
 # Dependencies
 markdown:    kramdown
