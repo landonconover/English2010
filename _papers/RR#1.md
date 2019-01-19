@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reading Response #1
+title: 'Reading Response #1'
 ---
 
 # Reading Response #1
