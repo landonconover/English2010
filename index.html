@@ -8,7 +8,7 @@ This is for writing assignments for my English 2010 Class!!!
 
 {% for page in site.pages %}
     <!-- link to each post in index.html -->
-    <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a> </br>
+    {{ site.baseurl }}{{ page.url }} - {{ page.title }}
 {% endfor %}
 
 
