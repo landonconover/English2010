@@ -10,4 +10,4 @@ This is for writing assignments for my English 2010 Class!!
 {% endfor %}
 
 
-[RR#1.md][/English2010/RR%231.html]
+[RR#1.md](/English2010/RR%231.html)
