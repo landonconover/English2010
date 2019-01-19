@@ -5,15 +5,10 @@ layout: default
 # English2010
 This is for writing assignments for my English 2010 Class!!!
 
-
-{% for page in site.pages %}
-    [{{ page.title }}]({{ site.baseurl }}{{ page.url }})
-{% endfor %}
-
 <ul>
   {% for paper in site.papers %}
     <li>
-      <a href="{{ paper.url }}">{{ paper.title }}</a>
+      <a href="{{ site.baseurl }}{{ paper.url }}">{{ paper.title }}</a>
     </li>
   {% endfor %}
 </ul>
