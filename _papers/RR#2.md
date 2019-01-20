@@ -32,17 +32,17 @@ Post an image that best relays your chosen issue in the form of a visual.
 ## Response
 ### Part A
 
-In the original movie trailer for Sleepless in Seattle, the rhetorical situation easy to pick up and figure out. The music is light and bouncy. The editing is quick and snappy. The dialogue is quick and clever. After the trailer gets moving, you learn that it is a comedic love story, or in todays vernacular a romcom. I have never seen this film before, but it looks like it would probably be an ok flick.
+In the original movie trailer for Sleepless in Seattle, the rhetorical situation easy to pick up and figure out. The music is light and bouncy. The editing is quick and snappy. The dialogue is quick and clever. After the trailer gets moving, you learn that it is a comedic love story, or in today's vernacular a romcom. I have never seen this film before, but it looks like it would probably be an ok flick.
 
-The second trailer is great. It takes the whole rhetorical situation and flips it. It uses dark and scary music. It uses shots that, taken out of context, make the movie seem very different that it is. Basically it makes what looks to be a fun move that I would like to see, into something that isn't my cup of tea. The thing that I notice when watching this trailer that changes things the most for me is the editing style changes from quick and snapping to a majority of fades. Shots fade in and out. This one change makes the whole rhetorical situation change. It makes the female character look scary and what looks to be a stalker looking to kill someone.
+The second trailer is great. It takes the whole rhetorical situation and flips it. It uses dark and scary music. It uses shots that, taken out of context, make the movie seem very different than it is. Basically, it makes what looks to be a fun movie that I would like to see, into something that isn't my cup of tea. The thing that I notice when watching this trailer that changes things the most for me is the editing style changes from quick and snapping to a majority of fades. Shots fade in and out. This one change makes the whole rhetorical situation change. It makes the female character look scary and what looks to be a stalker looking to kill someone.
 
 ### Part B
 
 The topic that has been on my mind lately is advertising. I know, sounds boring. Stick with me.
 
-When I was growing up, my family owned and operated the Springville Herald. A small weekly newspaper. During my childhood, ads put dinner on our table. Unfortunately, that newspaper is gone now; 15 years ago the newspaper was sold to the Daily Herald in Provo, and 8 years after that it was closed for good. I have fond memories of that newspaper. I literally grew up watching my family do whatever it took to put out the newspaper every week. 
+When I was growing up, my family owned and operated the Springville Herald. A small weekly newspaper. During my childhood, ads put dinner on our table. Unfortunately, that newspaper is gone now; 15 years ago the newspaper was sold to the Daily Herald in Provo, and 8 years after that it was closed for good. I have fond memories of that newspaper. I literally grew up watching my family do whatever it took to put out the newspaper every week.
 
-Because of this, I have had some interesting feelings about ads, and especially ads on the internet. If you were to ask most people, what the most annoying part of the internet is, I would be willing to bet that most of them would say ads. I would be one of them. But because of my background, I understand that they are necessary for quality content.
+Because of this, I have had some interesting feelings about ads, and especially the ads on the internet. If you were to ask most people, what the most annoying part of the internet is, I would be willing to bet that most of them would say ads. I would be one of them. But because of my background, I understand that they are necessary for quality content.
 
 For my research paper, I want to study ads. Ads on the internet, print and other places we are exposed to them each and every day. I want to ask the following questions:
 
