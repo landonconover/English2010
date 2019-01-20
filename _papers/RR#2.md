@@ -58,3 +58,9 @@ For my research paper, I want to study ads. Ads on the internet, print and other
 * Google chrome is coming out with a built in ad blocker. What repercussions will come from this?
   * How does the industry feel about this?
   * Why would Google do this, when they make money from ads too?
+* What is native advertising?
+  * Advertising that looks and feels like content, but is really ads.
+  * What are the effects of this kind of advertising?
+  * Is this good or bad for the internet?
+
+![Image courtesy: https://www.asd.web.tr/en/internet-advertising ](https://www.asd.web.tr/upload/hizmetler/internet-advertising.jpg "Internet Advertising")
