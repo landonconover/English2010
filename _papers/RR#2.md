@@ -40,15 +40,21 @@ The second trailer is great. It takes the whole rhetorical situation and flips i
 
 The topic that has been on my mind lately is advertising. I know, sounds boring. Stick with me.
 
-When I was growing up, my family owned and operated the Springville Herald. A small hometown weekly newspaper. It is fair to say that advertisements put dinner on my table. About 15 years ago the newspaper was sold to the Daily Herald in Provo, and about 8 years after that it was closed for good. I have fond memories of that newspaper. I literally grew up watching my family do whatever it took to put out the newspaper every week. 
+When I was growing up, my family owned and operated the Springville Herald. A small weekly newspaper. During my childhood, ads put dinner on our table. Unfortunately, that newspaper is gone now; 15 years ago the newspaper was sold to the Daily Herald in Provo, and 8 years after that it was closed for good. I have fond memories of that newspaper. I literally grew up watching my family do whatever it took to put out the newspaper every week. 
 
-Because of this, I have had some interesting feelings about ads, and especially ads on the internet. If you were to ask most people, what the most annoying part of the internet is, I would be willing to bet that most of them would say ads. I would be one of them. But because of my background, I understand that they are a necessary evil for good content.
+Because of this, I have had some interesting feelings about ads, and especially ads on the internet. If you were to ask most people, what the most annoying part of the internet is, I would be willing to bet that most of them would say ads. I would be one of them. But because of my background, I understand that they are necessary for quality content.
 
-In my paper, I want to look in to ads. Ads on the internet, print and other places we are exposed to them each and every day. I want to ask the following questions:
+For my research paper, I want to study ads. Ads on the internet, print and other places we are exposed to them each and every day. I want to ask the following questions:
 
 * What privacy concerns are there with ads on the internet?
-* How effective is advertising?
+  * Ads track you, the amount of information they have about you is staggering.
+* How effective is advertising, both in print and on the web?
+  * How have the effectiveness of advertising changed over time?
+  * Specifically, what effect has the internet had on advertising?
 * Is there a better way to fund content on the internet or in print?
 * What is ethical and unethical in advertising?
 * Is targeted advertising ethical? Is it helpful?
-* 
+* Do ad blockers help or hurt?
+* Google chrome is coming out with a built in ad blocker. What repercussions will come from this?
+  * How does the industry feel about this?
+  * Why would Google do this, when they make money from ads too?
