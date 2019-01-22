@@ -1,6 +1,6 @@
 title: English 2010 Portfolio
 description: My English 2010 Portfolio - By Landon Conover
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes@4.15.1
 --baseurl: /English2010
 # Dependencies
 markdown:    kramdown
