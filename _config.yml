@@ -8,3 +8,5 @@ highlighter: pygments
 collections:
   papers:
     output: true
+  ReadingResponses:
+    output: true
